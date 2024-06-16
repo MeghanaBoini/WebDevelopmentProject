@@ -1,0 +1,40 @@
+
+
+div{
+    text-align: center;
+    /* background-image:linear-gradient(to right,rgba(237, 245, 237, 0.758),rgba(237, 246, 237, 0.9)),url("https://cdn.vectorstock.com/i/500p/36/63/online-courses-e-learning-listening-lesson-vector-21763663.avif") ; */
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: auto; 
+    
+}
+ 
+.image{
+    text-align: left;
+    display: flex;
+    margin-top: 50px;
+}
+
+.content{
+    display:block;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+
+.sub{
+    margin-bottom: 50px;
+    margin-right: 200px;
+}
+
+.navi{
+    margin-bottom: 40px;
+}
+
+/* .home{
+    text-align: center;
+    background-image:linear-gradient(to right,rgba(237, 245, 237, 0.758),rgba(237, 246, 237, 0.9)),url("https://cdn.vectorstock.com/i/500p/36/63/online-courses-e-learning-listening-lesson-vector-21763663.avif") ;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: 0; 
+} */

@@ -1,0 +1,17 @@
+.content{
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.content1{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin: auto;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}

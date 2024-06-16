@@ -1,0 +1,39 @@
+###user registration
+post http://localhost:4000/user-api/user
+Content-Type: application/json
+
+{
+    "userType":"user",
+    "username":"meghana",
+    "password":"meghana",
+    "email":"meghana@gmail.com"
+}
+
+
+### user login
+post http://localhost:4000/user-api/login
+Content-Type: application/json
+
+{
+    "userType":"user",
+    "username":"meghana",
+    "password":"meghana"
+}
+
+
+###admin registration
+
+
+###admin login
+
+
+
+
+
+
+
+###
+get http://localhost:4000/user-api/test-user
+
+###
+get http://localhost:4000/admin-api/test-admin
